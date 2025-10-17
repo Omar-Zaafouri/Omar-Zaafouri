@@ -12,7 +12,7 @@ Always curious and eager to learn new technologies and frameworks in the ever-ev
 
 - **Frontend:** HTML5, CSS3, JavaScript (ES6+), React.js, Bootstrap, Tailwind CSS  
 - **Backend:** Node.js, Express.js, PHP, Laravel  
-- **CMS & E-commerce:** **WordPress**, **PrestaShop**, WooCommerce  
+- **CMS & E-commerce:** WordPress, PrestaShop, WooCommerce  
 - **Database:** MySQL, MongoDB  
 - **Tools & Others:** Git, GitHub, REST APIs, Postman, Docker, VS Code  
 
@@ -26,6 +26,19 @@ Always curious and eager to learn new technologies and frameworks in the ever-ev
 | **E-commerce Platform (PrestaShop)** | Complete online store with product management and payment integration | [GitHub Repo](#) |
 | **Custom WordPress Theme** | Fully responsive WordPress theme built from scratch | [View Project](#) |
 | **Blog CMS (PHP & MySQL)** | Simple content management system for publishing articles | [View Project](#) |
+
+---
+
+### 🏅 Certifications
+
+| 📜 Certificate | 🏢 Issuer | 📅 Year |
+|----------------|-----------|---------|
+| Web Development Bootcamp | Udemy | 2024 |
+| PHP & MySQL for Beginners | Coursera | 2023 |
+| WordPress Theme Development | LinkedIn Learning | 2023 |
+| PrestaShop E-commerce Specialist | PrestaShop Academy | 2024 |
+
+*(Add more certificates as needed)*
 
 ---
 
