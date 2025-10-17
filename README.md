@@ -35,8 +35,8 @@ Always curious and eager to learn new technologies and frameworks in the ever-ev
 |----------------|-----------|---------|
 | Web Development | Sololearn | Apr 2025|
 | Introduction to C++| Sololearn | Feb 2025 |
-| WordPress Theme Development | Sololearn | 2023 |
-| PrestaShop E-commerce Specialist | PrestaShop Academy | 2024 |
+| Introduction to SQL | Sololearn | Feb 2025 |
+| Javascript Intermediate| Jav 2025 |
 
 *(Add more certificates as needed)*
 
