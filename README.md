@@ -34,7 +34,7 @@ Always curious and eager to learn new technologies and frameworks in the ever-ev
 | 📜 Certificate | 🏢 Issuer | 📅 Year |
 |----------------|-----------|---------|
 | Web Development Bootcamp | Sololearn | 2024 |
-| PHP & MySQL for Beginners | Coursera | 2023 |
+| PHP & MySQL for Beginners | Sololearn | 2023 |
 | WordPress Theme Development | LinkedIn Learning | 2023 |
 | PrestaShop E-commerce Specialist | PrestaShop Academy | 2024 |
 
