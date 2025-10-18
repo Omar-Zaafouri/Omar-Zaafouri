@@ -37,7 +37,7 @@ Always curious and eager to learn new technologies and frameworks in the ever-ev
 | Introduction to C++| Sololearn | Feb 2025 |
 | Introduction to SQL | Sololearn | Feb 2025 |
 | Javascript Intermediate| Sololearn | Jav 2025 |
-| Introduction programming Using Javascript | Sep 2023|
+| Introduction programming Using Javascript | Sololearn | Sep 2023|
 
 *(Add more certificates as needed)*
 
